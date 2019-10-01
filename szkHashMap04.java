@@ -1,4 +1,5 @@
 package Mycollection;
+hahaha
 /**
  * 自定义一个HashMap
  * 增加了toStirng方法便于显示
